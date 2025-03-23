@@ -1,4 +1,4 @@
-# Task 1.2
+# Task 1.2 SCM
 A brief overview of the project.
 
 ## Installation
